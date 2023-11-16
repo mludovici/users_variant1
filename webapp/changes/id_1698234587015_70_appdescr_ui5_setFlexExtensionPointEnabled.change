@@ -1,0 +1,22 @@
+{
+	"changeType": "appdescr_ui5_setFlexExtensionPointEnabled",
+	"reference": "customer.users.variant1",
+	"namespace": "apps/customer.users.variant1/changes/",
+	"projectId": "customer.users.variant1",
+	"packageName": "",
+	"support": {
+		"generator": "sap.ui.rta.AppDescriptorCommand",
+		"sapui5Version": "1.108.0",
+		"compositeCommand": "id_1698234587013_69_composite"
+	},
+	"originalLanguage": "DE",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1698234587015_70_appdescr_ui5_setFlexExtensionPointEnabled",
+	"content": {
+		"flexExtensionPointEnabled": true
+	},
+	"texts": {},
+	"appDescriptorChange": true,
+	"creation": "2023-10-25T11:49:47.033Z"
+}

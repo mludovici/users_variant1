@@ -1,0 +1,41 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "fioriusersfreestyle",
+  "id": "customer.users.variant1",
+  "namespace": "apps/fioriusersfreestyle/appVariants/customer.users.variant1/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n"
+      },
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "@i18n"
+      },
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_setMinUI5Version",
+      "content": {
+        "minUI5Version": "1.108.0"
+      }
+    }
+  ]
+}

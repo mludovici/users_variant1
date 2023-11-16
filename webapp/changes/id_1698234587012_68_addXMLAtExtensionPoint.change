@@ -1,0 +1,38 @@
+{
+	"fileName": "id_1698234587012_68_addXMLAtExtensionPoint",
+	"fileType": "change",
+	"changeType": "addXMLAtExtensionPoint",
+	"moduleName": "customer/users/variant1/changes/fragments/testBtn.fragment.xml",
+	"reference": "customer.users.variant1",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/testBtn.fragment.xml"
+	},
+	"selector": {
+		"name": "ux410_extension",
+		"viewSelector": {
+			"id": "Main",
+			"idIsLocal": true
+		}
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/customer.users.variant1/changes/",
+	"projectId": "customer.users.variant1",
+	"creation": "2023-10-25T11:49:47.033Z",
+	"originalLanguage": "DE",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.108.0",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1698234587013_69_composite",
+		"command": "addXMLAtExtensionPoint"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
